@@ -1,0 +1,112 @@
+a {
+    text-decoration: none;
+}
+
+.container{
+    background-color: #ffff;
+    padding-bottom: 5rem;
+}
+
+
+/* navbar */
+.navbar{
+    padding: 3.75rem 0 0 0;
+    background-color: #ffff;
+}
+
+.navbar li {
+    margin-left: 1rem;
+}
+
+/* home */
+
+#home h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 1.108;
+}
+
+.header-discription {
+    color: #8c8b90;
+    font-size: 1rem;
+}
+
+.top-img{
+    margin-bottom: 1.5rem;
+}
+
+.read-more-btn{
+    border-radius: 0;
+    border:0;
+    margin: 1.87rem 0 0 0;
+}
+
+.read-more-btn:hover{
+    background-color: black;
+}
+
+.top-spacing {
+    margin-top: 1.75rem;
+}
+
+/* NEW */
+
+.new-tab{
+    background-color: #00001a;
+    color: #ffff;
+    padding: 1rem 1.5rem;
+}
+
+.new-tab h1{
+    color: #eda550;
+    padding-bottom: 0.5rem;
+}
+
+.new-tab h5 {
+    padding: 0.5rem 0;
+}
+
+.new-tab a {
+    color: #ffff;
+}
+
+.new-tab a:hover{
+    color: #eda550;
+}
+
+.new-tab p {
+    color: #a7a8ba;
+}
+
+.new-tab hr {
+    margin-top: 2rem;
+}
+
+#categories{
+    margin-top: 4rem;
+}
+
+#categories h1 {
+    color: #c9c6ce;
+}
+
+#categories p {
+    color: #8c8b90;
+    font-size: 1rem;
+}
+
+#categories a {
+    color: #000;
+}
+
+#categories a:hover{
+    color: #e1665e;
+}
+
+#categories h6 {
+    font-weight: bold;
+} 
+
+#categories .col-lg-4 {
+    margin-top: 1rem;
+}
